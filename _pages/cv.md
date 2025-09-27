@@ -1,16 +1,13 @@
 ---
-layout: cv
+layout: page
+title: "CV"
 permalink: /cv/
-title: cv
-nav: false
-nav_order: 4
-cv_pdf: example_pdf.pdf
-description: 
-
-toc:
-  sidebar: left
 ---
 
-🖋<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/assets/json/resume.json">Edit this page.</a>
+### 教育背景
+- **南京大学** · 新闻传播学院 · 新闻传播学 · **博士研究生**（**2025.09—至今**）
+- **南京师范大学** · 新闻与传播学院 · 戏剧与影视学 · **硕士**（**2017.09—2020.06**）
+- **南京师范大学** · 新闻与传播学院 · 广播电视学 · **本科**（**2012.09—2016.06**）
 
-
+### 工作经历
+- **南京传媒学院** · 新闻传播学院 · **专任教师（讲师）**（**2020.09—2025.08**）
