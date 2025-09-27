@@ -1,3 +1,4 @@
+![avatar](/assets/img/new.jpg)
 ---
 layout: page
 title: "关于我"
