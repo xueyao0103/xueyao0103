@@ -1,28 +1,78 @@
 ---
-layout: about
-title: About
+layout: page
+title: "关于我"
 permalink: /
-subtitle: 
-profile:
-  align: right
-  image: avatar.jpeg
-  image_circular: true # crops the image to make it circular
-  address: 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+description: "南京大学新闻传播学院 · 博士研究生
 ---
 
-Cheng-Jun Wang is currently a full  professor in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn). He is the director of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://chengjun.github.io/socrateslab/). He is also a research member of [Web Mining Lab](http://weblab.com.cityu.edu.hk), City University of Hong Kong. His research interest focuses on employing big data, computational methods, and social theories to study human communication behaviors, including but not limited to information diffusion, attention flow, and computational narrative. His research on computational communication appears in both SSCI and SCI indexed journals. His new book **Jumping over the network threshold: Information diffusion on social media** (in Chinese [《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)) has recently been published by the Science Press in July 2022. You can find his [CV](cv/) here.
+![portrait](/assets/img/new.jpg)
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
+我是南京大学新闻传播学院的博士研究生（博一）。研究兴趣聚焦于**计算传播、社交网络分析、文本挖掘与情感传播**。我长期从事新闻传播相关理论与实务教学，具备扎实的理论基础与丰富的一线教学、竞赛与项目组织经验；同时坚持科研产出，关注智能媒体语境下的传播机制与治理问题。
 
+- 现阶段研究兴趣：计算传播｜社交网络结构与扩散｜情感传播｜文本挖掘与主题建模｜数据新闻  
+- 技术工具：**Python**（pandas、networkx、scikit-learn、BeautifulSoup、Scrapy）、**R**、Gephi、NetworkX  
+- 联系方式：lewisnnu@163.com  
+- GitHub：[@xueyao0103](https://github.com/xueyao0103)
 
-<br>
+---
 
-<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
-</a>
+## 教育背景
+- **南京大学 · 新闻传播学院 · 博士（在读）**  
+  方向：计算传播与社交网络分析
+- **南京师范大学 · 新闻与传播学院 · 硕士**（戏剧与影视学 / 广播电视文艺学方向）  
+  两年专业排名**第一**、**一等奖学金**，评为校“**优秀研究生**”
+- **南京师范大学 · 广播电视学（广播电视编导） · 本科**  
+  系统学习广播电视学理论与实践，掌握文案策划、影像拍摄、后期剪辑；连续三年“**三好学生**”，获“**优秀毕业生**”
 
-<br>
+> 本硕阶段系统训练使我在传媒领域具备扎实的理论基础与实践能力。
+
+---
+
+## 工作经历
+- **南京传媒学院 · 新闻传播学院 · 讲师**  
+  长期承担高强度教学任务（**每周约 30 课时**），在高压下保持科研投入；兼顾教学与科研，积累了丰富的实践经验与问题意识。  
+  - 主讲课程：**《传播学概论》《新闻传播理论》《网络传播概论》** 等理论课；**《新闻评论写作》《新闻摄影》《数据新闻》** 等实践课  
+  - 《传播学概论》连续**5 年**任课  
+  - 指导**100+**名学生完成毕设/论文；带队参加“全国大学生广告艺术大赛”“互联网+”等赛事并获奖  
+  - 多次担任学院“迎新晚会”“艺术节”**导演/监制**  
+  - **2023 年教师节**获校“**最美教师**”称号  
+  - **江苏省教育考试院新闻学专业命题组**成员，多次参与并主持《中国新闻事业史》《新闻学概论》《中外新闻作品研究》等科目命题
+
+- **外聘教学经历**  
+  在**南京晓庄学院、南京艺术学院、南京师范大学**担任外聘教师，承担新闻学、广告学、广播电视学相关课程（如**《政治传播学》《广告策划》**）。
+
+---
+
+## 科研成果（近年）
+- **《我国微纪录片的国际传播困境与突破》**，《传媒》，**2023 年 10 月**（中文核心 / CSSCI 扩展；**独作**）  
+- **《人工智能驱动下的广电供给侧改革路向及赋能落点》**，**投至《中国广播电视学刊》**（中文核心 / CSSCI 扩展），**二审修改中**，预计 **2025 年初见刊**  
+- **《人工智能背景下社交网络传播过程中的情感价值分析》**（合作），**投至 SSCI 期刊 *Frontiers in Psychology*（Q2）**，按审稿意见**修改中**  
+- **《人文纪录片叙事的创新实践——以“我在敦煌”为例》**，《喜剧世界》  
+- **《当代电影中的澳门意象》**，《中国报业》  
+- **《地理类科普自媒体“星球研究所”对国家形象的呈现与传播》**，入选“**2023 中国新闻史学会视听传播专委会**”年会  
+- **《智能媒体对南京城市形象的国际传播——基于“涉宁华侨”的实证研究》**，入围“**智媒时代国家形象塑造与国际传播路径创新**”会议
+
+**项目**  
+- 参与**江苏高校哲社项目 3 项**（一般 1、思政 2；均排名 **2**）  
+  1) “‘转文化’传播视角下我国纪录片‘走出去’研究”  
+  2) “高校短视频制作专业课课程思政建设研究”  
+  3) “团学组织视域下高校研究生思政工作与人才培养工作融合路径创新研究”  
+- 参与**横向课题**“**城市形象国际塑造与国际传播——以南京为例**”（排名 **3**），获**中国侨联 2022 年度全国侨联系统调研课题优秀成果奖**
+
+---
+
+## 能力与方法
+- **编程与数据**：Python（pandas、networkx、scikit-learn、BeautifulSoup、Scrapy）、R；Gephi / NetworkX 网络可视化  
+- **文本与网络分析**：情感分析、主题建模、扩散路径识别与可视化  
+- **影像创作**：摄影摄像与后期；擅长影像化表达与学术叙事结合
+
+---
+
+## 外语与国际经历
+- 英语：**CET-6**；**IELTS 6.5**（**2024 年阅读 9 分**）  
+- 访学/交流：英国、法国、德国、澳大利亚、新西兰、新加坡、日本、韩国等
+
+---
+
+## 个人特点
+热爱阅读与写作，问题意识与目标导向强；在高强度教学与科研并行中保持稳定产出。长期教学与跨领域写作使我具备扎实的理论素养与清晰凝练的学术表达能力。热爱旅行与影像创作，善于以视觉化方式记录与呈现社会文化议题。
