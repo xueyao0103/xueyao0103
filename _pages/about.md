@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "关于我"
+title: "薛耀"
 permalink: /
-description: "教育背景与工作经历"
+description: "个人简介"
 ---
 
 ## 教育背景
